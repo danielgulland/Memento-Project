@@ -1,0 +1,6 @@
+Which cone would you like?
+1)Vanilla
+2)Chocolate
+3)Strawberry
+1
+The number of scoops is 1. The flavor is Vanilla. And the type of cone is regular and the toppings are: [Sprinkles]

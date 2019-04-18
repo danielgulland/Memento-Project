@@ -1,3 +1,9 @@
+/* Daniel Gulland & John Bui
+   April 18, 2019
+   Purpose: tester
+   Inputs: toppings
+   Outputs: user selected cone
+ */
 import java.util.Scanner;
 
 public class Tester {
@@ -30,12 +36,5 @@ public class Tester {
       originator.getStateFromMemento(careTaker.get(input.nextInt() - 1));
       System.out.println(originator.getState());
 
-
-//      System.out.println("Current State: " + originator.getState());
-//
-//      originator.getStateFromMemento(careTaker.get(0));
-//      System.out.println("First saved State: " + originator.getState());
-//      originator.getStateFromMemento(careTaker.get(1));
-//      System.out.println("Second saved State: " + originator.getState());
    }
 }
